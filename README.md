@@ -3,7 +3,9 @@
 
 
 <h4 align="center">About me</h4>
-<p align="center">Student at the national school of computer engineering <a href="https://www.esi.dz/">ESI Alger</a> <br>Advanced knowledge of full stack engineering<br>Certified infographic designer</p>
+<p align="center">Student at the national school of computer engineering <a href="https://www.esi.dz/">ESI Alger</a> <br>Advanced knowledge of full stack engineering<br>Certified infographic designer
+<br> <a href=mailto:“ji_djida@esi.dz”>Reach out to me on Gmail</a>
+</p>
 <h4 align="center">Technical skills</h4>
 
 
