@@ -1,5 +1,5 @@
 <h3 align="center" sty>السلام عليكم</h3>
-<h4 align="center">I am a green mushroom on a mission to spread knowledge and learn new skills<br> as a full stack developer and computer engineer</h4>
+
 
 
 <h4 align="center">My name is Djida Issam</h4>
